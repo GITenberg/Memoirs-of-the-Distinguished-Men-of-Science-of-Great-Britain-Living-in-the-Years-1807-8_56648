@@ -1,0 +1,30 @@
+_repo: Memoirs-of-the-Distinguished-Men-of-Science-of-Great-Britain-Living-in-the-Years-1807-8_56648
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Hunt, Robert
+    birthdate: 1807
+    deathdate: 1887
+    gutenberg_agent_id: '46598'
+    url: http://www.gutenberg.org/2009/agents/46598
+creator:
+  author:
+    agent_name: Walker, William Sidney
+    birthdate: 1795
+    deathdate: 1846
+    gutenberg_agent_id: '7584'
+    url: http://www.gutenberg.org/2009/agents/7584
+description: ''
+gutenberg_issued: '2018-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memoirs of the Distinguished Men of Science of Great Britain Living in the
+  Years 1807-8
+url: http://www.gutenberg.org/ebooks/56648
